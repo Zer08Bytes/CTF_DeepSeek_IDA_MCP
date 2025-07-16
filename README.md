@@ -1,0 +1,2 @@
+# CTF_DeepSeek_IDA_MCP
+纯小白使用DeepSeek结合IDA和MCP自动化解密CTF逆向题目
